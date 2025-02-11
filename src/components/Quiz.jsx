@@ -17,7 +17,7 @@ export default function Quiz() {
   if (quizIsCompleted) {
     return (
       <div id="summary">
-        <img src={quisComplete} alt="yeah" />
+        <img src={quisComplete} alt="cup of winner" />
         <h2>Quiz Completed</h2>
       </div>
     );
